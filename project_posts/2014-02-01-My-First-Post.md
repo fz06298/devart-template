@@ -1,5 +1,7 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Function and scenario for initial version. It is not decided.
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+![Funtion](../project_images/scenario_001.jpg?raw=true "Funtion")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+***
+
+![Scenario](../project_images/scenario_002.jpg?raw=true "Scenario")
